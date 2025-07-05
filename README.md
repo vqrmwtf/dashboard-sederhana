@@ -16,3 +16,7 @@ A **dashboard** is a visual interface that displays key data in the form of char
 - Interactive visualizations using `matplotlib` and `streamlit`
 - Simple and clean code structure
 - Easy to extend and customize
+
+Let's Connect
+LinkedIn: [viqramwataf](https://www.linkedin.com/in/viqramwataf)\
+Download free modules: [viqramwataf](https://lynk.id/viqramwataf)
